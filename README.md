@@ -1,25 +1,63 @@
-# Recetario saludable — inspiración japonesa
+# LillyTech · Mi Cocina Saludable
 
-Recetario web estático con 20 recetas sencillas, filtros por tipo de proteína, búsqueda por ingrediente, macros aproximados y lista general de compras.
+**Sabores del mundo para todos los días**
 
-## Archivos
-- `index.html` — aplicación completa.
-- `.nojekyll` — evita que GitHub Pages intente procesar el sitio con Jekyll.
+Recetario web interactivo orientado a una alimentación variada, práctica
+y saludable, con recetas inspiradas en distintas culturas y adaptadas
+para el día a día.
 
-## Publicar en GitHub Pages
-1. Crea un repositorio nuevo. Nombre sugerido: `recetario-saludable`.
-2. Sube `index.html` y `.nojekyll` a la raíz del repositorio.
-3. Abre **Settings → Pages**.
-4. En **Build and deployment**, selecciona **Deploy from a branch**.
-5. Selecciona la rama **main** y la carpeta **/(root)**.
-6. Guarda los cambios.
-7. GitHub mostrará la URL pública cuando termine la publicación.
+## Contenido
 
-La URL normalmente tendrá esta forma:
-`https://TU-USUARIO.github.io/recetario-saludable/`
+-   63 recetas de distintas culturas y estilos de cocina.
+-   Carnes, pollo, pescado, opciones vegetarianas, sopas y caldos.
+-   Ensaladas completas.
+-   Aderezos y salsas.
+-   Smoothies, incluyendo opciones que pueden funcionar ocasionalmente
+    como comida completa.
+-   Caldo de huesos casero.
+-   Información aproximada de calorías y proteína.
+-   Notas sobre el origen o inspiración cultural de las preparaciones.
+-   Guía de ingredientes y despensa del mundo.
 
-## Actualizaciones
-Para agregar o modificar recetas, reemplaza `index.html` en el repositorio. La dirección pública no cambia.
+## Funciones de la aplicación
 
-## Nota
-Las calorías y proteínas son estimaciones orientativas y pueden variar según marcas, porciones y métodos de cocción.
+-   Búsqueda por receta, ingrediente o cultura.
+-   Filtros por cultura y tipo de preparación.
+-   ❤️ **Mis favoritas** para guardar las recetas preferidas.
+-   🛒 **Agregar ingredientes** directamente desde una receta.
+-   Lista general de compras organizada por categorías.
+-   Cantidades y precios aproximados editables.
+-   Cálculo automático del total de la compra.
+-   Resumen de los productos seleccionados, con subtotales y total
+    estimado.
+-   Conservación local de favoritos y lista de compras en el navegador.
+-   Diseño adaptable para teléfono, tablet y computadora.
+
+## Filosofía
+
+**Mi Cocina Saludable** no está planteada como una dieta restrictiva. Su
+propósito es facilitar una alimentación cotidiana con variedad,
+proteína, vegetales, ingredientes reales y preparaciones sabrosas de
+diferentes partes del mundo.
+
+La información nutricional y los precios incluidos son aproximados y
+funcionan como referencia. Pueden variar según ingredientes, porciones,
+marcas, tiendas y métodos de preparación.
+
+## Archivo principal
+
+`index.html` --- aplicación completa de **LillyTech · Mi Cocina
+Saludable**.
+
+`.nojekyll` --- evita que GitHub Pages intente procesar el sitio con
+Jekyll.
+
+## Publicación en GitHub Pages
+
+El sitio funciona como una aplicación web estática y puede publicarse
+directamente mediante GitHub Pages.
+
+------------------------------------------------------------------------
+
+**LillyTech · Bienestar cotidiano**\
+*Tecnología práctica para la vida real.*
